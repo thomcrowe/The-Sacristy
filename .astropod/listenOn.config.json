@@ -1,12 +1,12 @@
 {
-  "spotify": "",
-  "googlePodcast": "",
-  "applePodcast": "",
-  "easyPodcast": "",
   "amazonMusic": "",
-  "fountain": "",
-  "ivoox": "",
-  "pocketcasts": "",
+  "easyPodcast": "",
   "deezer": "",
-  "acastPodcasts": ""
+  "applePodcast": "https://podcasts.apple.com/us/podcast/the-sacristy/id1474576153",
+  "ivoox": "",
+  "googlePodcast": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjY3NTI0MjE0Ny9zb3VuZHMucnNz",
+  "acastPodcasts": "",
+  "fountain": "",
+  "spotify": "https://open.spotify.com/show/6lyiqeW96To7SvGn2Kjti8",
+  "pocketcasts": "https://pca.st/podcast/adb54b30-98ff-0137-4052-0acc26574db2"
 }

@@ -1,6 +1,6 @@
 ---
-title: "S3E1: The Sacristy Returns"
-audioUrl: https://soundcloud.com/thesacristy/s3e1-the-sacristy-returns?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+title: The Sacristy Returns
+audioUrl: https://feeds.soundcloud.com/stream/1648129974-thesacristy-s3e1-the-sacristy-returns.mp
 pubDate: 25 Oct 2022
 duration: 00:32
 size: 0.7

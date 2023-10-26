@@ -1,6 +1,6 @@
 ---
 title: "Episode 0: Towards a Podcast"
-audioUrl: https://soundcloud.com/thesacristy/episode-0-towards-a-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+audioUrl: https://feeds.soundcloud.com/stream/657869303-thesacristy-episode-0-towards-a-podcast.mp3
 pubDate: 28 Jul 2019
 duration: 34:05
 size: 49.1

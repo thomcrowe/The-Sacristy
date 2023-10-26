@@ -1,5 +1,5 @@
 ---
-title: "Episode 0: Towards a Podcast"
+title: Towards a Podcast
 audioUrl: https://feeds.soundcloud.com/stream/657869303-thesacristy-episode-0-towards-a-podcast.mp3
 pubDate: 28 Jul 2019
 duration: 34:05

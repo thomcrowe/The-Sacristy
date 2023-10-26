@@ -2,22 +2,21 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
-  "banner": "/banner.webp",
-  "pageSize": 15,
+  "author": "Fr. Matt Ainsely & Fr. David Bumsted",
+  "name": "The Sacristy",
+  "banner": "/header-sacrsity.jpeg",
+  "pageSize": 10,
   "fundingUrl": "",
   "owner": "",
   "favicon": "/favicon.svg",
   "explicit": false,
-  "cover": "/cover.jpg",
+  "cover": "/the-sacristy.jpeg",
   "language": "en",
   "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "email": "thom@thomcrowe.cvom",
+  "description": "Join with Fr. Matt and Fr. David as they seek to learn, discuss, and exult in the faith delivered once for all to the saints as it has been passed down in) the Anglican Tradition.\n\nFr. Matt is the vicar of All Souls Episcopal Church, a church plant in Horizon West, FL. All Souls is temporarily meeting at the Church of the Messiah in Winter Garden, FL. For more information;\nwww.allsoulsfl.org\n9:00am Rite I Sung Mass\n\nFr. David is the rector of Saint John’s Episcopal Church in Tulsa, Oklahoma. For more information:\nsjtulsa.net\nService Times:\n8:00am Rite I Said Mass\n10:00am Rite II Sung Mass\n5:30pm Rite I Choral Evensong",
   "category": [
-    "Technology",
-    "Business"
+    "Religion &amp; Spirituality"
   ],
   "feedSize": ""
 }

@@ -7,7 +7,7 @@ size: 0.7
 cover: ""
 explicit: false
 episode: 1
-season: 1
+season: 3
 episodeType: full
 ---
 On this first episode of a new season of the Sacristy….\

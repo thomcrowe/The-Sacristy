@@ -1,7 +1,7 @@
 ---
-title: Demo Episode
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
-pubDate: Sep 10 2022
+title: "S3E1: The Sacristy Returns"
+audioUrl: https://soundcloud.com/thesacristy/s3e1-the-sacristy-returns?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+pubDate: 25 Oct 2022
 duration: 00:32
 size: 0.7
 cover: ""
@@ -10,4 +10,25 @@ episode: 1
 season: 1
 episodeType: full
 ---
-This is an episode demo of Astropod. Here you can add the description of your episode.
+On this first episode of a new season of the Sacristy….\
+What what? New content from an obscure and dormant podcast? Truly we serve a God of wonders!
+
+Fathers Matt and David indeed return to the microphones, once thought lost but now indeed found! It would be pretty funny if we stopped recording because Fr. David lost his microphone until last week. They are joined by Deacon Thom Crowe, who is helping them stay on track as a producer. This week, they’ll try to remember how to host a podcast, talk a little bit about what they’ve been up to for the past 3 years, and then reflect on the importance of the Communion of the Saints.. As always, we'll close with our Sermon First Pass with the Sunday lessons from the twenty second Sunday after Pentecost.
+
+Leviticus 19:1-2,15-18\
+Psalm 1\
+1 Thessalonians 2:1-8\
+Matthew 22:34-46
+
+We hope you've been encouraged and edified by our work! Christ be with you!
+
+Fr. Matt is the vicar of All Souls Episcopal Church, a church plant in Horizon West, FL. All Souls is temporarily meeting at the Church of the Messiah in Winter Garden, FL. For more information;\
+[www.allsoulsfl.org](https://gate.sc/?url=http%3A%2F%2Fwww.allsoulsfl.org&token=ea63a5-1-1698337723061 "http\://www.allsoulsfl.org")\
+9:00am Rite I Sung Mass
+
+Fr. David is the rector of Saint John’s Episcopal Church in Tulsa, Oklahoma. For more information:\
+sjtulsa.net\
+Service Times:\
+8:00am Rite I Said Mass\
+10:00am Rite II Sung Mass\
+5:30pm Rite I Choral Evensong

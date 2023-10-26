@@ -1,6 +1,6 @@
 ---
 title: The Weirdness of Liturgy
-audioUrl: https://soundcloud.com/thesacristy/episode-1-the-weirdness-of?si=8f7638613ab44fa29719cf9a155bfee5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+audioUrl: https://feeds.soundcloud.com/stream/657869303-thesacristy-episode-1-the-weirdness-of-liturgy.mp3
 pubDate: 04 Aug 2019
 duration: 34:05
 size: 92.1

@@ -1,14 +1,12 @@
 ---
 title: "A Lesser Feast: Preaching XIV Pentecost"
-audioUrl: https://feeds.soundcloud.com/stream/679850252-thesacristy-a-lesser-feast-preaching-xiv.m4a"
-  length="45554547"/>       <itunes:image
-  href="https://i1.sndcdn.com/artworks-000596489264-whj4qm-t3000x3000.jpg"/>
+audioUrl: https://feeds.soundcloud.com/stream/679850252-thesacristy-a-lesser-feast-preaching-xiv.m4a
 pubDate: 12 Sep 2019
 duration: 22:59
 size: 46
 cover: /artworks-000596489264-whj4qm-t500x500.jpg
 explicit: false
-episode: ""
+episode: 0
 season: 1
 episodeType: full
 ---

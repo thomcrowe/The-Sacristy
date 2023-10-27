@@ -6,6 +6,7 @@ duration: 30:37
 size: 63
 cover: /artworks-000620656249-h0hmrh-t3000x3000.jpg
 explicit: false
+season: 1
 episodeType: full
 ---
 On this Lesser Feast Minisode, Fr. Matt and Fr. David try to keep the weekly discipline of the Sacristy’s Sermon First Pass, taking look at the lessons for Sunday October 13, 2019. We’ll also consider our burgeoning international listener base and Golden Grahams, I guess.

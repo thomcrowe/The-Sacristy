@@ -6,7 +6,7 @@ duration: 22:59
 size: 46
 cover: /artworks-000596489264-whj4qm-t500x500.jpg
 explicit: false
-episode: ""
+episode: 0
 season: 1
 episodeType: full
 ---
